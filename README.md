@@ -22,7 +22,7 @@ I'm a BTech AI & Data Science student passionate about building real-world AI, a
 - [ASL Hand Sign Detection](https://github.com/Falco0906/asl_hand_sign_detection): Real-time ASL recognition using CNN  
 - [Crypto Predictor](https://github.com/Falco0906/crypto-predictor): Deep learning-based crypto forecasting with live data updates  
 - [Heart Disease Detection](https://github.com/Falco0906/heart_disease_detection): ML-based prediction using patient vitals  
-- [ARMS](https://github.com/Falco0906/arms): Academic Resource Management System for organizing and sharing university course materials  
+- [ARMS](https://github.com/Falco0906/arms): Academic Resource Management System for organizing and sharing KLH university course materials  
 - [n8n Data Orchestrator](https://github.com/Falco0906/n8n-data-orchestrator): Automated data pipeline and workflow management using n8n  
 - [GitHub Visualizer](https://github.com/Falco0906/github-visualizer): Interactive visualization of GitHub repositories and contribution data
 
