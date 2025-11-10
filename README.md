@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a BTech AI & Data Science student passionate about building real-world AI, automation, and website projects.
 
 ## 🌟 Featured Projects
-- [SyncStream](https://github.com/Falco0906/syncstream): Collaborative video watching with real-time sync  
+<!-- - [SyncStream](https://github.com/Falco0906/syncstream): Collaborative video watching with real-time sync  -->
 - [ASL Hand Sign Detection](https://github.com/Falco0906/asl_hand_sign_detection): Real-time ASL recognition using CNN  
 - [Crypto Predictor](https://github.com/Falco0906/crypto-predictor): Deep learning-based crypto forecasting with live data updates  
 - [Heart Disease Detection](https://github.com/Falco0906/heart_disease_detection): ML-based prediction using patient vitals  
