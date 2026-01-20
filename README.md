@@ -30,4 +30,5 @@ I'm a BTech AI & Data Science student passionate about building real-world AI, a
 Python • Machine Learning • Deep Learning • n8n • Web Development • Website Building • Automation • Data Visualization
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/faisal-khan-5a383a355/) | [GitHub](https://github.com/Falco0906)
+[LinkedIn](https://www.linkedin.com/in/faisal-khan-5a383a355/) 
+<!-- [GitHub](https://github.com/Falco0906) -->
